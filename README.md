@@ -110,8 +110,8 @@ Confira alguns dos meus trabalhos mais recentes e importantes:
 
 | Contato | Link |
 | :---: | :---: |
-| 💼 **LinkedIn** | [linkedin.com/in/SEU_USER_DO_LINKEDIN](https://www.linkedin.com/in/iamnilo) |
-| 📧 **Email** | [nilo.siqueira48@gmail.com](mailto:nilosiqueiratj@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/iamnilo](https://www.linkedin.com/in/iamnilo) |
+| 📧 **Email** | [nilosiqueiratj@gmail.com](mailto:nilosiqueiratj@gmail.com) |
 | 📞 **Telefone** | (24) 99843-8644 |
 | 🌐 **Portfólio** | *[Em breve]* |
 
@@ -120,4 +120,5 @@ Confira alguns dos meus trabalhos mais recentes e importantes:
 <div align="center">
   <h3>Obrigado por visitar! Se quiser, me adicione no LinkedIn. 🚀</h3>
 </div>
+
 
