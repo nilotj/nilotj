@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./programador-animation.gif" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*Z4HRalcoNb8m_zej.gif" width="100%" />
 </div>
 
 ---
@@ -120,5 +120,6 @@ Confira alguns dos meus trabalhos mais recentes e importantes:
 <div align="center">
   <h3>Obrigado por visitar! Se quiser, me adicione no LinkedIn. 🚀</h3>
 </div>
+
 
 
