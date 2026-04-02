@@ -70,30 +70,6 @@ Confira alguns dos meus trabalhos mais recentes e importantes:
 
 ---
 
-## 🗺️ Roadmap 2025 — Minha evolução planejada
-
-### 🔥 **1º Trimestre**
-- Aprimorar fundamentos de JavaScript avançado  
-- Criar 3 projetos React intermediários  
-- Começar TypeScript
-
-### ⚡ **2º Trimestre**
-- Node.js avançado (JWT, ORM, APIs profissionais)  
-- Criar portfólio completo em React  
-- Contribuir em 1 projeto open-source
-
-### 🚀 **3º Trimestre**
-- React Native (foco em apps móveis)  
-- Publicar 2 aplicativos reais  
-- Melhorar inglês (com foco profissional)
-
-### 🏆 **4º Trimestre**
-- Preparar currículo internacional  
-- Aplicar para vagas Júnior Brasil / Canadá  
-- Criar SaaS próprio com assinatura
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
